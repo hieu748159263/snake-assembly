@@ -5,7 +5,7 @@ The classic Snake game implemented in MIPS Assembly.
 
 </div>
 
-## Prerequisites
+## Prerequisites📋
 - [Java SE Development Kit](https://www.oracle.com/java/technologies/downloads/)
 - [MARS](http://courses.missouristate.edu/KenVollmar/MARS/download.htm)
 
@@ -21,20 +21,20 @@ The classic Snake game implemented in MIPS Assembly.
 
 ![](/images/env-setting.png)
 <div align="center"> 
-    Environment settings to run the game <br></br>
+    Environment settings to run the game⚙️<br></br>
 </div>
 
 ![](/images/running.png)
 <div align="center"> 
-    Game is running <br></br>
+    Game is running🏃‍♂️<br></br>
 </div>
 
 ![](/images/game-over.png)
 <div align="center"> 
-    Game over! <br></br>
+    Game over❌<br></br>
 </div>
 
-## Remarks❗
+## Remarks📌
 - This code was inspired by [shahmaty](https://github.com/shahmaty)'s [assemblySnake](https://github.com/shahmaty/assemblySnake) program.
 - I made this program in only 8 hours, so feel free to improve upon it!
 - Apparently there is a bug that makes MARS freeze randomly when you press a moving key.
