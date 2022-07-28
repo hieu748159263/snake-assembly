@@ -38,5 +38,6 @@ The classic Snake game implemented in MIPS Assembly.
 - This code was inspired by [shahmaty](https://github.com/shahmaty)'s [assemblySnake](https://github.com/shahmaty/assemblySnake) program.
 - I made this program in only 8 hours, so feel free to improve upon it!
 - Apparently there is a bug that makes MARS freeze randomly when you press a moving key.
+- Check out the pseudo code, notes and comments in the `snake.asm` file for information about how this program works.
 
 
