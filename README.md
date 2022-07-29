@@ -11,10 +11,10 @@ The classic Snake game implemented in MIPS Assembly. <br></br>
 
 # Installation & environment setup🛠️
 - Download and open the `snake.asm` file in MARS
-- Open the `Bitmap Display`, press `Connect to MIPS` and set:
+- Open the `Bitmap Display` in `Tools`, press `Connect to MIPS` and set:
   - Unit Width in Pixels to 8
   - Unit Height in Pixels to 8
-- Open the `Keyboard and Display MMIO Simulator` and press `Connect to MIPS`
+- Open the `Keyboard and Display MMIO Simulator` in `Tools` and press `Connect to MIPS`
 - Run the program to start playing! Use `WASD` to move. Note that in the initial position, the snake is heading right so you can't move left. 
 
 # Screenshots📷
